@@ -1,0 +1,8 @@
+python --version
+conda info --envs
+conda activate C:\Anaconda\envs\ensayo
+pip freeze > requirements.txt
+streamlit run app.py
+
+git --version
+git init
